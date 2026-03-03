@@ -1,0 +1,2 @@
+module progra1Laboratorio {
+}
